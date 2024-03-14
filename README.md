@@ -1113,4 +1113,4 @@ Enter the number
 69
 Number is NOT palindrome
 RESULT:
-The Commands are executed successfully.
+The Commands are executed successfully
